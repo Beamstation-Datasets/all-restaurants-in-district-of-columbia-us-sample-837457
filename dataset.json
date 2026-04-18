@@ -1,0 +1,22 @@
+{
+  "base_price": 7450,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All restaurant listings across the state of District of Columbia. Filtered by the Restaurants category group, this statewide export includes verified business profiles, review analytics, competitive benchmarks, and contact details for every active listing. Refreshed weekly.",
+  "config_name": "All Restaurants in District of Columbia, US",
+  "export_job_id": "229669f4-bf75-4dc1-b522-bf8dbaa799d9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 837457,
+  "location_name": "District of Columbia",
+  "location_type": "state",
+  "repo_name": "all-restaurants-in-district-of-columbia-us-sample-837457",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/837457/beamstation_837457_restaurants-us-dc_SAMPLE_DIST.csv",
+  "sample_pct": 10.0,
+  "sample_records": 377,
+  "sample_sha256": "f58874ff5cfb3825366f374ad1026e51852824b0f09761a024a12ecc21595632",
+  "sample_size_bytes": 1352115,
+  "total_records": 3770,
+  "updated_at": "2026-04-14T14:12:45.590992+00:00"
+}
